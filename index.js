@@ -29,3 +29,11 @@ export const multiply = (a, b) => {
 export const divide = (a, b) => {
     return a + b
 }
+
+/** This function does some random pow a^b
+ * @param {number} a
+ * @param {number} b
+  */
+ export const pow = (a,b) => {
+    return Math.pow(a,b);
+ }
