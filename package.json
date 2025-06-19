@@ -1,0 +1,20 @@
+{
+  "name": "@rbarbosa51/npm-test",
+  "version": "1.0.0",
+  "description": "This is a test. Publishing Test.",
+  "homepage": "https://github.com/rbarbosa51/npm-test#readme",
+  "bugs": {
+    "url": "https://github.com/rbarbosa51/npm-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbarbosa51/npm-test.git"
+  },
+  "license": "MIT",
+  "author": "Rafael Barbosa",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
